@@ -1,0 +1,4 @@
+[submodule "bf-im"]
+	path = bf-im
+	url = git@github.com:isteps-sps-lab/bf-im.git
+	branch = main
